@@ -1,4 +1,4 @@
 - 👋 Olá, Eu sou o Jean!!!
 - 👀 Entusiasta de tecnologia, gosto de jogos, filmes e séries!
 - 👨‍💻 Ciência da Computação
-- 💻 ASP.NET MVC, ASP.NET API, Flutter e Spring Boot 
+- 💻 C#, ASP.NET CORE, ASP.NET API, Flutter e Spring Boot 
